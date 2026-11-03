@@ -36,13 +36,13 @@ A customizable Dynamic Island for Windows with music controls, notifications, sy
 
 <p align="center">
   <a href="https://github.com/shawn89890916">
-    <img src="https://github-readme-stats.vercel.app/api?username=shawn89890916&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github&amp;include_all_commits=true" alt="Shawn&#39;s GitHub stats" />
+    <img src="./profile/stats.svg" alt="Shawn&#39;s GitHub stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shawn89890916">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn89890916&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Shawn&#39;s most-used programming languages" />
+    <img src="./profile/top-langs.svg" alt="Shawn&#39;s most-used programming languages" />
   </a>
 </p>
 
